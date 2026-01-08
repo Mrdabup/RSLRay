@@ -1,0 +1,3 @@
+[submodule "submodule/ResoniteLink.py"]
+	path = submodule/ResoniteLink.py
+	url = https://github.com/JackTheFoxOtter/ResoniteLink.py.git
